@@ -108,7 +108,6 @@
       		<h1>Hi, My Name is Lakshan Pathiraja</h1>
       </div>
       <h1 class="title">About Me</h1>
-     
       <!-- Start About section -->
       <div class="col-md-12 col-sm-12 col-xs-12  omega  about">
         <p class="about_info">Born & raised in California, America. I'm genuinely inspired by industrial minimalism and different cultures. Over eight years in business, I have had a chance to work on a variety of projects, with agencies, companies or even individuals. Custom work is my territory, branding, web design, UI/UX design, print design & any offline design.<br><br>
