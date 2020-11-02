@@ -1,11 +1,5 @@
 <!DOCTYPE html>
-<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
-<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
-<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
-<!--[if (gte IE 9)|!(IE)]><!-->
 <html lang="en">
-<!--<![endif]-->
-
 <head>
 
 <!-- Basic Page Needs
@@ -34,22 +28,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="bootstrap/js/bootstrap.min.js"></script>
-
- 
-
-<!--[if IE 7]>
-        <link rel="stylesheet" type="text/css" href="stylesheets/ie7.css">
-<![endif]-->
-<!--[if lt IE 9]>
-		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-	<![endif]-->
-
-<!-- Favicons
-	================================================== -->
-<link rel="shortcut icon" href="img/favicon.png">
-
-
-
+    <link rel="shortcut icon" href="img/favicon.png">
 </head>
 <body>
 
@@ -126,8 +105,7 @@
     <!-- Start Profile Section -->
     <section class="col-md-9 col-sm-12 col-xs-12 col-md-offset-3 first profile rez_about">
       <div class="rez_top_title">
-      		<h1>Hi, My Name is Lauren Hernandez</h1>
-            <p>I draw lines & shapes with colors and make them awesome!</p>
+      		<h1>Hi, My Name is Lakshan Pathiraja</h1>
       </div>
       <h1 class="title">About Me</h1>
      
